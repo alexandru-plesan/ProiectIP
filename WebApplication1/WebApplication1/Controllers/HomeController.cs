@@ -26,5 +26,12 @@ namespace WebApplication1.Controllers
 
             return View();
         }
+
+        public ActionResult Materiale()
+        {
+            ViewBag.Message = "Materiale";
+
+            return View();
+        }
     }
 }
