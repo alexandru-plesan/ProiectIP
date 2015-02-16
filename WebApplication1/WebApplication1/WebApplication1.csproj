@@ -160,6 +160,7 @@
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\MaterialeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -215,6 +216,30 @@
     <Content Include="Views\Account\Register.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Home\Materiale.cshtml" />
+    <Content Include="Views\Materiale\Analiza_matematica.cshtml" />
+    <Content Include="Views\Materiale\Programarea_calculatoarelor.cshtml" />
+    <Content Include="Views\Materiale\Proiectare_asistata.cshtml" />
+    <Content Include="Views\Materiale\Fizica.cshtml" />
+    <Content Include="Views\Materiale\Programare_orientata.cshtml" />
+    <Content Include="Views\Materiale\Grafica_calculator.cshtml" />
+    <Content Include="Views\Materiale\Fundamenta_retele.cshtml" />
+    <Content Include="Views\Materiale\Baze_date.cshtml" />
+    <Content Include="Views\Materiale\Managementul_proiectelor.cshtml" />
+    <Content Include="Views\Materiale\Fundamente_rutare.cshtml" />
+    <Content Include="Views\Materiale\Educatie_antreprenoriala.cshtml" />
+    <Content Include="Views\Materiale\Proiectare_bd.cshtml" />
+    <Content Include="Views\Materiale\Sisteme_operare.cshtml" />
+    <Content Include="Views\Materiale\Arhitectura_sistemelor_calcul.cshtml" />
+    <Content Include="Views\Materiale\Inteligenta_artificiala.cshtml" />
+    <Content Include="Views\Materiale\Arhitectura_sistemelor_paralele.cshtml" />
+    <Content Include="Views\Materiale\Metode_dezvoltare_software.cshtml" />
+    <Content Include="Views\Materiale\Sisteme_distribuite.cshtml" />
+    <Content Include="Views\Materiale\Ingineria_programarii.cshtml" />
+    <Content Include="Views\Materiale\Dezvoltarea_WEB.cshtml" />
+    <Content Include="Views\Materiale\Compilatoare_translatoare.cshtml" />
+    <Content Include="Views\Materiale\Testarea_sistemelor_software.cshtml" />
+    <Content Include="Views\Materiale\Comert_electronic.cshtml" />
+    <Content Include="Views\Materiale\Algebra.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
